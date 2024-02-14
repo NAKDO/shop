@@ -8,6 +8,7 @@ import axios from 'axios';
 import Cart from './routes/Cart.js';
 import { useEffect } from "react";
 import { useQuery } from 'react-query';
+// github 연습
 
 function App() {
 
